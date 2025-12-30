@@ -446,10 +446,6 @@ A: Make sure:
 - `gemTier` array contains the gems you want to use
 - You have enough gems in your inventory
 
-**Q: The tool updates but my config is reset**
-
-A: Your config should be preserved. If lost, regenerate it with `npm start generate config.json` and reconfigure.
-
 ### Support
 
 **Q: Where can I get help?**
@@ -467,16 +463,6 @@ A: Please provide:
 - Error messages or logs
 - Steps to reproduce the issue
 
-**Q: Can I request new features?**
-
-A: Yes! Open a GitHub discussion or join our Discord server to suggest features.
-
-## Caution
-Recently, there have been reports of hacked accounts and lost currency associated with the use of certain tools. For your safety, it is advised to avoid any kind of obfuscated or suspicious code. Prioritize security and exercise caution when using external code or tools. Stay informed, trust reliable sources, and adopt good security practices to protect your accounts and data.
-
-For more information: [SECURITY.md](doc/security/README.md)
-
-![Imgur](doc/security/security-warning.png)
 ## Achievements
 ✔ CLI support
 
@@ -540,78 +526,3 @@ __-- Coming soon list --__
 
 ⬜ Application with UI support
 
-## Sparkling Soul
-
-We greatly appreciate your support and consideration! Your belief in the power of a star as a donation truly resonates with us. Each click represents not just a simple action, but a meaningful contribution towards our journey.
-
-Your stars serve as fuel for our spirits, igniting our passion and dedication to make a positive impact. With every milestone we achieve, we come closer to realizing our vision of creating a better non-profit endeavors.
-
-Your stars inspire us to keep pushing boundaries, overcome challenges, and bring about meaningful change.
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=star-history/star-history,lfathh/OwO.git&type=date&legend=top-left)](https://www.star-history.com/#star-history/star-history&lfathh/OwO.git&type=date&legend=top-left)
-
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
-
-As we are looking for translators to make the tool and instruction multi-language supports, please open a discussion with translator labels if you'd like to join in!
-
-Please make sure to update tests as appropriate.
-
-## Contact
-
-__Facebook:__ [Nguyễn Thành Long](https://www.facebook.com/profile.php?id=100026454971591)
-
-__Fanpage:__ [Nong ngoo ở đảo Ngố](https://www.facebook.com/profile.php?id=100086422962104)
-
-__Patreon:__ [Click here!](https://patreon.com/DiscordOwOSelfbot)
-
-__PayPal:__ [Click here!](https://www.paypal.me/IzumiKyou)
-
-__Email:__ ntt.eternity2k6@gmail.com
-
-__Join our discord server:__ [Tool Support Server](https://discord.gg/Yr92g5Zx3e)
-
-    Hello there, my name is Eternityy, and I wanted to take a moment to thank you for using our tool.
-    
-    Since 2021, this project has been non-profit. But we're still committed to making it the best it can be, 
-    
-    With APIs like captcha-solving and quoting,... to help make your experience better and more efficient.
-    
-    Unfortunately, funding has become an obstacle to our progress. Would you be willing to help us out with a small donation? 
-    
-    Even the price of a coffee cup can go a long way towards keeping us going. Every little bit helps, means the world to us.
-    
-    Thank you for your time and consideration, and we hope you continue to enjoy our tool!
-
-## Acknowledgments
-__SPECIAL THANKS TO:__
-
-- [Elysia](https://github.com/aiko-chan-ai)
-
-- [Misono Mika](https://github.com/misonomikadev)
-
-- [iamz4ri](https://github.com/iamz4ri)
-
-- keepmeside
-
-- gillcoder
-
-- [Deniz](https://github.com/uwuv3)
-
-## License & Usage
-
-✨ This project is licensed under a Custom Non-Commercial License. You are free to use, modify, and distribute this software for **non-commercial purposes only**. 
-
-For commercial use, you must obtain written permission from the author and maintain proper attribution. See the [LICENSE](LICENSE) file for full details.
-
-## Additional Information
-
-💖 Made by Vietnamese with love
-
-⛱️ Copyright © Kyou Izumi 2021-2025
-
-💫 We are BKI members (Baka Island - Đảo Ngố Tàu)
