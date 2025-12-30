@@ -14,8 +14,6 @@ We support 2 ways to login: via **token** and **QR Code**
 
 __- Step 1: Get your discord account token__
 
-See [How to get your discord token](#get-token)
-
 __- Step 2: Simply paste your token into the terminal, this will take a while__
 
 ![Imgur](https://i.imgur.com/v7LlsSg.png)
