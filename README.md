@@ -20,7 +20,7 @@ We support 2 ways to login: via **token** and **QR Code**
     "showRPC": true // Show Discord Rich Presence
 }
 ```
----77
+---
 ### Usage
 
  Enable:
