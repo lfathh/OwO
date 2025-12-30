@@ -1,5 +1,25 @@
 # DISCORD OWO TOOL FARM
+<h1 align="center">
+    <span>OwO</span>
+  <img width="auto" height="50px" src="https://github.com/lfathh/OwO/blob/main/assets/f.png"/>
+</h1>
 
+<div align="center">
+
+<a href="https://github.com/lfathh/OwO/stargazers">![GitHub Repo stars](https://img.shields.io/github/stars/lfathh/OwO?style=social)</a>
+<a href="https://lfathh.github.io/OwO/">![Docs](https://img.shields.io/badge/docs-laion--ai.github.io%2FOpen--Assistant%2F-green)</a>
+<a href="https://github.com/lfathh/OwO/actions/workflows/build-frontend.yaml">![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/lfathh/OwO/build-frontend.yaml?label=build-frontend)</a>
+<a href="https://github.com/lfathh/OwO/actions/workflows/build-postgres.yaml">![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/lfathh/OwO/build-postgres.yaml?label=build-postgres)</a>
+<a href="https://github.com/lfathh/OwO/actions/workflows/pre-commit.yaml">![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/lfathh/OwO/pre-commit.yaml?label=pre-commit)</a>
+<a href="https://github.com/lfathh/OwO/actions/workflows/test-api-contract.yaml">![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/lfathh/OwO/test-api-contract.yaml?label=tests-api)</a>
+<a href="https://github.com/lfathh/OwO/actions/workflows/test-e2e.yaml">![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/lfathh/OwO/test-e2e.yaml?label=tests-web)</a>
+<a href="https://github.com/lfathh/OwO/actions/workflows/deploy-docs-site.yaml">![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/lfathh/OwO/deploy-docs-site.yaml?label=deploy-docs)</a>
+<a href="https://github.com/lfathh/OwO/actions/workflows/production-deploy.yaml">![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/lfathh/OwO/production-deploy.yaml?label=deploy-production)</a>
+<a href="https://github.com/lfathh/OwO/actions/workflows/release.yaml">![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/lfathh/OwO/release.yaml?label=deploy-release)</a>
+<a href="https://github.com/lfathh/OwO/releases">![GitHub release (latest by date)](https://img.shields.io/github/v/release/lfathh/OwO)</a>
+<a href="https://github-com.translate.goog/lfathh/OwO/blob/main/README.md?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp">![Translate](https://img.shields.io/badge/Translate-blue)</a>
+
+</div>
 # Running Reatures
 ![Imgur](https://i.imgur.com/kSDgdDS.png)
 
