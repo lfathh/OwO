@@ -1,58 +1,11 @@
 # ADVANCED DISCORD OWO TOOL FARM
 
-This is a community version and currently in progress
-
-Please report bugs and keep on track with our announcement!
-
-> `Advanced discord OwO selfbot` is currently in maintenance mode. Future updates focus on bug fixes and improvements rather than new features. Thank you for trusting and being with us throughout the 3-year journey.
->
-> If you have any question/suggestion, feel free to submit your idea to us.
-> 
-> Please report if you have any issue/bug/error while using, I will try my best to help with responsibility.
-
-
 ```
 >>> Captcha from owobot.com/captcha is now supported
 ```
 
 > [!TIP]
 > **Check out this discussion: https://github.com/Kyou-Izumi/discord-owo-selfbot/discussions/45**
-
-##  Requirement
-__Node.js Version:__ v22.11.0 and above
-
-For laptop and PC: Windows 10/11 or higher, Linux and MacOS
-
-For Android: Download and install [Termux](https://f-droid.org/en/packages/com.termux/) 
-
-For IOS: Not yet (please tell us if you know any supporting method)
-
-__Note:__ Termux from Google Play Store is unsupported.
-
-## Tutorial
-
-__A full tutorial on how to use the tool is now available!__
-
- - [[2021-Present] GREATEST Advanced Discord OwO Tool Farm](https://youtu.be/-oYY3ZdqPy8)
-
-## Installation
-
-### Node.js installation
-
-##### Windows/Linux/MacOS:
-
-Please make sure that you have installed [Node.js LTS](https://nodejs.org/en/download) on your devices.
-
-![Imgur](https://i.imgur.com/swvzF0k.png)
-
-##### Termux:
-
-On Termux, run the following commands:
-```bash
-apt update
-apt upgrade
-apt install -y nodejs-lts git 
-```
 
 ### Tool installation
 
