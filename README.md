@@ -1,6 +1,6 @@
 # DISCORD OWO TOOL FARM
 <h1 align="center">
-    <span>OwO</span>
+    <span>Lfathh Auto Owo</span>
   <img width="auto" height="50px" src="https://github.com/lfathh/OwO/blob/main/assets/logo.png"/>
 </h1>
 
