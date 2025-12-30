@@ -28,7 +28,7 @@ import { CriticalEventHandler } from "@/handlers/CriticalEventHandler.js";
 export class BaseAgent {
     public readonly rootDir = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 
-    public readonly miraiID = "1205422490969579530"
+    public readonly miraiID = "1366968567517413479"
 
     public readonly client: ExtendedClient<true>;
     public config: Configuration;
@@ -387,4 +387,5 @@ export class BaseAgent {
         agent.farmLoop();
     }
 }
+
 
