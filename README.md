@@ -4,14 +4,6 @@
 >>> Captcha from owobot.com/captcha is now supported
 ```
 
-If you see the following warning 
-
-![Imgur](https://i.imgur.com/jSTfrOr.png)
-
-Congratulation, you have installed our `discord OwO tool farm` successfully.
-
-Type "Y", enter and enjoy your time! (The tool will exit if you press enter only)
-
 #### Account Login
 
 We support 2 ways to login: via **token** and **QR Code**
