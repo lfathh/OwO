@@ -9,7 +9,7 @@
 We support 2 ways to login: via **token** and **QR Code**
 
 ![Imgur](https://i.imgur.com/UwU9Z9B.png)
-
+---
 ##### Via token: 
 
 __- Step 1: Get your discord account token__
@@ -19,7 +19,7 @@ See [How to get your discord token](#get-token)
 __- Step 2: Simply paste your token into the terminal, this will take a while__
 
 ![Imgur](https://i.imgur.com/v7LlsSg.png)
-
+---
 ### Lootbox & Daily Actions
 ```js
 {
@@ -41,6 +41,7 @@ __- Step 2: Simply paste your token into the terminal, this will take a while__
     "showRPC": true // Show Discord Rich Presence
 }
 ```
+---77
 ### Usage
 
  Enable:
@@ -53,7 +54,7 @@ __- Step 2: Simply paste your token into the terminal, this will take a while__
 - `autoGem` is not set to 0
 - `gemTier` array contains the gems you want to use
 - You have enough gems in your inventory
-
+---
 ### Support
 - Chat our [Discord](https://discord.com/s7vxfxy)
 
@@ -62,7 +63,7 @@ __- Step 2: Simply paste your token into the terminal, this will take a while__
 - Operating system
 - Error messages or logs
 - Steps to reproduce the issue
-
+---
 ## Achievements
 ✔ CLI support
 
