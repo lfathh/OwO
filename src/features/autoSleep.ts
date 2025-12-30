@@ -37,5 +37,4 @@ export default Schematic.registerFeature({
 
         return agent.client.sleep(sleepTime)
     }
-
 })
