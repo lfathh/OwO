@@ -9,14 +9,7 @@
 We support 2 ways to login: via **token** and **QR Code**
 
 ![Imgur](https://i.imgur.com/UwU9Z9B.png)
----
-##### Via token: 
 
-__- Step 1: Get your discord account token__
-
-__- Step 2: Simply paste your token into the terminal, this will take a while__
-
-![Imgur](https://i.imgur.com/v7LlsSg.png)
 ---
 ### Lootbox & Daily Actions
 ```js
