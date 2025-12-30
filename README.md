@@ -63,15 +63,9 @@ __- Step 2: Simply paste your token into the terminal, this will take a while__
 - You have enough gems in your inventory
 
 ### Support
-
-**Q: Where can I get help?**
-
-A: 
 - Chat our [Discord](https://discord.com/s7vxfxy)
 
-**Q: How do I report a bug?**
-
-A: Please provide:
+### Please provide:
 - Your Node.js version
 - Operating system
 - Error messages or logs
