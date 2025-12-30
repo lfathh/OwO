@@ -8,7 +8,7 @@ If you see the following warning
 
 ![Imgur](https://i.imgur.com/jSTfrOr.png)
 
-Congratulation, you have installed our `Advanced discord OwO tool farm` successfully.
+Congratulation, you have installed our `discord OwO tool farm` successfully.
 
 Type "Y", enter and enjoy your time! (The tool will exit if you press enter only)
 
@@ -27,11 +27,6 @@ See [How to get your discord token](#get-token)
 __- Step 2: Simply paste your token into the terminal, this will take a while__
 
 ![Imgur](https://i.imgur.com/v7LlsSg.png)
-
-##### Via QR Code
-Simply scan the QR Code on the screen by your discord mobile and wait patiently...
-
-![Imgur](https://i.imgur.com/xm8F3Cy.png)
 
 ### Lootbox & Daily Actions
 ```js
