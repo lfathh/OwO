@@ -259,9 +259,9 @@ export class BaseAgent {
             .setName("Lfathh Developer")
             .setDetails("The handsome man is having a headache.")
             .setStartTimestamp(this.client.readyTimestamp)
-            .setAssetsLargeImage("https://cdn.discordapp.com/attachments/1455077804361383968/1456284089400426518/20260101_202508.jpg?ex=6957cdbf&is=69567c3f&hm=8248f5b7637c21b38c310435f8bdffa62cbb60a0d64c9d5e374bb7be14bb684e&")
-            .setAssetsLargeText("Fath Tools")
-            .setAssetsSmallImage("https://cdn.discordapp.com/attachments/1455077804361383968/1456284089807143013/20260101_202402.jpg?ex=6957cdbf&is=69567c3f&hm=f9dcb9e5ab16c8d0ee54081aae7d74a1fd04dc3e55f20dd95d9c9980ea874181&")
+            .setAssetsLargeImage("https://cdn.discordapp.com/attachments/1455077804361383968/1456284089807143013/20260101_202402.jpg?ex=6957cdbf&is=69567c3f&hm=f9dcb9e5ab16c8d0ee54081aae7d74a1fd04dc3e55f20dd95d9c9980ea874181&")
+            .setAssetsLargeText("lfath Tools")
+            .setAssetsSmallImage("https://cdn.discordapp.com/attachments/1455077804361383968/1456284089400426518/20260101_202508.jpg?ex=6957cdbf&is=69567c3f&hm=8248f5b7637c21b38c310435f8bdffa62cbb60a0d64c9d5e374bb7be14bb684e&")
             .setAssetsSmallText("Copyright © lfath 2025")
             .addButton("GitHub", "https://github.com/lfathh")
             .addButton("TikTok", "https://www.tiktok.com/@fxyyxs")
@@ -387,6 +387,7 @@ export class BaseAgent {
         agent.farmLoop();
     }
 }
+
 
 
 
