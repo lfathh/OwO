@@ -257,11 +257,11 @@ export class BaseAgent {
             .setApplicationId(this.miraiID)
             .setType("PLAYING")
             .setName("Lfathh Developer")
-            .setDetails("The handsome man is having a headache.!")
+            .setDetails("The handsome man is having a headache.")
             .setStartTimestamp(this.client.readyTimestamp)
-            .setAssetsLargeImage("1312264004382621706")
+            .setAssetsLargeImage("1006535951")
             .setAssetsLargeText("Fath Tools")
-            .setAssetsSmallImage("1306938859552247848")
+            .setAssetsSmallImage("1006535957")
             .setAssetsSmallText("Copyright © lfath 2025")
             .addButton("GitHub", "https://github.com/lfathh")
             .addButton("TikTok", "https://www.tiktok.com/@fxyyxs")
@@ -387,6 +387,7 @@ export class BaseAgent {
         agent.farmLoop();
     }
 }
+
 
 
 
